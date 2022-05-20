@@ -1,0 +1,15 @@
+Package: dvicomb
+Type: Package
+Title: Combining genetic and non-genetic data in identification cases
+Version: 0.1.0
+Author: Alf Erik and Thore
+Maintainer: <yourself@somewhere.net>
+Description: DNA based solutions may by symmetric. For instance,
+    if two brothers are missing, it may be impossible to determine using DNA
+    which is the missing person.
+    Discrete data (like presence of a tattoo) or continuous (like age) information 
+    may resolve such symmetries and this is addressed in the package.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
